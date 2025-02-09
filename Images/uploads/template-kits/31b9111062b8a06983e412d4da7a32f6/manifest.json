@@ -1,0 +1,1985 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Bsurf - School of Surfing Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.1",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Homepage",
+            "screenshot": "screenshots\/homepage.jpg",
+            "source": "templates\/homepage.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro\/bsurf\/template-kit\/homepage\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro\/bsurf\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Lessons",
+            "screenshot": "screenshots\/lessons.jpg",
+            "source": "templates\/lessons.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro\/bsurf\/template-kit\/lessons\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Lesson Detail",
+            "screenshot": "screenshots\/lesson-detail.jpg",
+            "source": "templates\/lesson-detail.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro\/bsurf\/template-kit\/lesson-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Event",
+            "screenshot": "screenshots\/event.jpg",
+            "source": "templates\/event.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro\/bsurf\/template-kit\/event\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Event Detail",
+            "screenshot": "screenshots\/event-detail.jpg",
+            "source": "templates\/event-detail.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro\/bsurf\/template-kit\/event-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Instructor",
+            "screenshot": "screenshots\/instructor.jpg",
+            "source": "templates\/instructor.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro\/bsurf\/template-kit\/2067\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Registration",
+            "screenshot": "screenshots\/registration.jpg",
+            "source": "templates\/registration.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro\/bsurf\/template-kit\/registration\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing Plan",
+            "screenshot": "screenshots\/pricing-plan.jpg",
+            "source": "templates\/pricing-plan.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro\/bsurf\/template-kit\/pricing-plan\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQs",
+            "screenshot": "screenshots\/faqs.jpg",
+            "source": "templates\/faqs.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro\/bsurf\/template-kit\/faqs\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404 Error",
+            "screenshot": "screenshots\/404-error.jpg",
+            "source": "templates\/404-error.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro\/bsurf\/template-kit\/404-error\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro\/bsurf\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Blog",
+            "screenshot": "screenshots\/single-blog.jpg",
+            "source": "templates\/single-blog.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro\/bsurf\/template-kit\/single-blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro\/bsurf\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Bsurf - Header",
+            "screenshot": "screenshots\/bsurf-header.jpg",
+            "source": "templates\/bsurf-header.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro\/bsurf\/template-kit\/bsurf-header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Bsurf - Footer",
+            "screenshot": "screenshots\/bsurf-footer.jpg",
+            "source": "templates\/bsurf-footer.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro\/bsurf\/template-kit\/bsurf-footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Newsletter Form Metform",
+            "screenshot": "screenshots\/newsletter-form-metform.jpg",
+            "source": "templates\/newsletter-form-metform.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro\/bsurf\/template-kit\/newsletter-form-metform\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Form Metform",
+            "screenshot": "screenshots\/contact-form-metform.jpg",
+            "source": "templates\/contact-form-metform.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro\/bsurf\/template-kit\/contact-form-metform\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Register Form Metform",
+            "screenshot": "screenshots\/register-form-metform.jpg",
+            "source": "templates\/register-form-metform.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro\/bsurf\/template-kit\/register-form-metform\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.10.1",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.8.1",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "MetForm",
+            "version": "3.2.1",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Rometheme For Elementor",
+            "version": "1.0.0",
+            "file": "rometheme-for-elementor\/RomeTheme.php",
+            "author": "Rometheme"
+        }
+    ],
+    "images": [
+        {
+            "filename": "professional-surfer-in-wet-t-shirt-riding-waves-on-S3DK3X9.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/bsurf\/wp-content\/uploads\/sites\/43\/2022\/12\/professional-surfer-in-wet-t-shirt-riding-waves-on-S3DK3X9-800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/registration.json",
+                    "name": "Registration"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 291213,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-S3DK3X9"
+        },
+        {
+            "filename": "surfer-PAX6YD9-1.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/bsurf\/wp-content\/uploads\/sites\/43\/2022\/12\/surfer-PAX6YD9-1-800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/event-detail.json",
+                    "name": "Event Detail"
+                }
+            ],
+            "filesize": 244549,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PAX6YD9"
+        },
+        {
+            "filename": "beautiful-woman-practising-yoga-on-paddle-sup-surf-NT6LXZW-2.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/bsurf\/wp-content\/uploads\/sites\/43\/2022\/12\/beautiful-woman-practising-yoga-on-paddle-sup-surf-NT6LXZW-2-800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 120228,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-NT6LXZW"
+        },
+        {
+            "filename": "kite-surfing-PW4C699-1.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/bsurf\/wp-content\/uploads\/sites\/43\/2022\/12\/kite-surfing-PW4C699-1-800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/lesson-detail.json",
+                    "name": "Lesson Detail"
+                },
+                {
+                    "source": "templates\/404-error.json",
+                    "name": "404 Error"
+                }
+            ],
+            "filesize": 164719,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PW4C699"
+        },
+        {
+            "filename": "icon-3.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/bsurf\/wp-content\/uploads\/sites\/43\/2022\/12\/icon-3.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/lessons.json",
+                    "name": "Lessons"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                }
+            ],
+            "filesize": 9272,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "surfing-icons-CTCWSEC"
+        },
+        {
+            "filename": "Icon-4.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/bsurf\/wp-content\/uploads\/sites\/43\/2022\/12\/Icon-4.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 6806,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "surfing-icons-CTCWSEC"
+        },
+        {
+            "filename": "Icon-5.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/bsurf\/wp-content\/uploads\/sites\/43\/2022\/12\/Icon-5.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 11876,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "surfing-icons-CTCWSEC"
+        },
+        {
+            "filename": "fit-senior-man-having-fun-surfing-on-tropical-beac-BH33ESM-1.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/bsurf\/wp-content\/uploads\/sites\/43\/2022\/12\/fit-senior-man-having-fun-surfing-on-tropical-beac-BH33ESM-1-800x847.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/lesson-detail.json",
+                    "name": "Lesson Detail"
+                }
+            ],
+            "filesize": 241284,
+            "dimensions": [
+                850,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-BH33ESM"
+        },
+        {
+            "filename": "pretty-young-blonde-woman-in-swimsuit-looks-into-d-MM3EXNS-1.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/bsurf\/wp-content\/uploads\/sites\/43\/2022\/12\/pretty-young-blonde-woman-in-swimsuit-looks-into-d-MM3EXNS-1-800x847.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/lesson-detail.json",
+                    "name": "Lesson Detail"
+                },
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                }
+            ],
+            "filesize": 221939,
+            "dimensions": [
+                850,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-MM3EXNS"
+        },
+        {
+            "filename": "mid-adult-man-surfing-rolling-wave-leucadia-califo-2K5MWRU-1.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/bsurf\/wp-content\/uploads\/sites\/43\/2022\/12\/mid-adult-man-surfing-rolling-wave-leucadia-califo-2K5MWRU-1-800x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/lessons.json",
+                    "name": "Lessons"
+                },
+                {
+                    "source": "templates\/lesson-detail.json",
+                    "name": "Lesson Detail"
+                },
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                }
+            ],
+            "filesize": 163024,
+            "dimensions": [
+                1920,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-2K5MWRU"
+        },
+        {
+            "filename": "indonesia-lombok-surfing-man-7VS9HSD-1.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/bsurf\/wp-content\/uploads\/sites\/43\/2022\/12\/indonesia-lombok-surfing-man-7VS9HSD-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/lessons.json",
+                    "name": "Lessons"
+                }
+            ],
+            "filesize": 205046,
+            "dimensions": [
+                900,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-7VS9HSD"
+        },
+        {
+            "filename": "kitesurfers-on-the-le-morne-beach-in-mauritius-4YY5Z42-1.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/bsurf\/wp-content\/uploads\/sites\/43\/2022\/12\/kitesurfers-on-the-le-morne-beach-in-mauritius-4YY5Z42-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 172566,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-4YY5Z42"
+        },
+        {
+            "filename": "woman-sitting-on-sup-board-and-enjoying-peace-and-QNHMLCD-1.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/bsurf\/wp-content\/uploads\/sites\/43\/2022\/12\/woman-sitting-on-sup-board-and-enjoying-peace-and-QNHMLCD-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 180684,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-QNHMLCD"
+        },
+        {
+            "filename": "Icon-1-1.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/bsurf\/wp-content\/uploads\/sites\/43\/2022\/12\/Icon-1-1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 4608,
+            "dimensions": [
+                300,
+                238
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "surface-level-view-of-rolling-ocean-wave-and-coast-U9K45NT-1.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/bsurf\/wp-content\/uploads\/sites\/43\/2022\/12\/surface-level-view-of-rolling-ocean-wave-and-coast-U9K45NT-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 262628,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-U9K45NT"
+        },
+        {
+            "filename": "surface-level-view-of-rolling-ocean-wave-and-coast-U9K45NT.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/bsurf\/wp-content\/uploads\/sites\/43\/2022\/12\/surface-level-view-of-rolling-ocean-wave-and-coast-U9K45NT-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 262689,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-U9K45NT"
+        },
+        {
+            "filename": "surf-sand-and-sea-with-a-man-on-the-beach-for-surf-M2GB8KB-1.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/bsurf\/wp-content\/uploads\/sites\/43\/2022\/12\/surf-sand-and-sea-with-a-man-on-the-beach-for-surf-M2GB8KB-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 201190,
+            "dimensions": [
+                700,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-M2GB8KB"
+        },
+        {
+            "filename": "back-view-of-young-pretty-woman-with-slender-body-J27KAXL-1.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/bsurf\/wp-content\/uploads\/sites\/43\/2022\/12\/back-view-of-young-pretty-woman-with-slender-body-J27KAXL-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 254783,
+            "dimensions": [
+                700,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-J27KAXL"
+        },
+        {
+            "filename": "hes-the-waviest-guy-at-the-beach-shot-of-a-handsom-YMQC37V.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/bsurf\/wp-content\/uploads\/sites\/43\/2022\/12\/hes-the-waviest-guy-at-the-beach-shot-of-a-handsom-YMQC37V.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/instructor.json",
+                    "name": "Instructor"
+                }
+            ],
+            "filesize": 136737,
+            "dimensions": [
+                700,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-YMQC37V"
+        },
+        {
+            "filename": "surfing-all-day-long-G849R5V.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/bsurf\/wp-content\/uploads\/sites\/43\/2022\/12\/surfing-all-day-long-G849R5V.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/instructor.json",
+                    "name": "Instructor"
+                }
+            ],
+            "filesize": 187838,
+            "dimensions": [
+                700,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-G849R5V"
+        },
+        {
+            "filename": "happy-beach-vacation-snorkeling-girl-having-fun-do-2HGSYB1-1.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/bsurf\/wp-content\/uploads\/sites\/43\/2022\/12\/happy-beach-vacation-snorkeling-girl-having-fun-do-2HGSYB1-1-800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/lessons.json",
+                    "name": "Lessons"
+                },
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                }
+            ],
+            "filesize": 118745,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-2HGSYB1"
+        },
+        {
+            "filename": "Png-6.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/bsurf\/wp-content\/uploads\/sites\/43\/2022\/12\/Png-6.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/lessons.json",
+                    "name": "Lessons"
+                },
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                }
+            ],
+            "filesize": 30104,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "summer-logo-templates-R3FK2W9"
+        },
+        {
+            "filename": "Png-7.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/bsurf\/wp-content\/uploads\/sites\/43\/2022\/12\/Png-7.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/lessons.json",
+                    "name": "Lessons"
+                },
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                }
+            ],
+            "filesize": 35349,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "summer-logo-templates-R3FK2W9"
+        },
+        {
+            "filename": "Png-2.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/bsurf\/wp-content\/uploads\/sites\/43\/2022\/12\/Png-2.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/lessons.json",
+                    "name": "Lessons"
+                },
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                }
+            ],
+            "filesize": 34432,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "summer-logo-templates-R3FK2W9"
+        },
+        {
+            "filename": "Png-3.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/bsurf\/wp-content\/uploads\/sites\/43\/2022\/12\/Png-3.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/lessons.json",
+                    "name": "Lessons"
+                },
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                }
+            ],
+            "filesize": 36839,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "summer-logo-templates-R3FK2W9"
+        },
+        {
+            "filename": "Png-4.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/bsurf\/wp-content\/uploads\/sites\/43\/2022\/12\/Png-4.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/lessons.json",
+                    "name": "Lessons"
+                },
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                }
+            ],
+            "filesize": 37367,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "summer-logo-templates-R3FK2W9"
+        },
+        {
+            "filename": "Png-5.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/bsurf\/wp-content\/uploads\/sites\/43\/2022\/12\/Png-5.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/lessons.json",
+                    "name": "Lessons"
+                },
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                }
+            ],
+            "filesize": 39850,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "summer-logo-templates-R3FK2W9"
+        },
+        {
+            "filename": "B2.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/bsurf\/wp-content\/uploads\/sites\/43\/2022\/12\/B2-800x450.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/lessons.json",
+                    "name": "Lessons"
+                },
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                }
+            ],
+            "filesize": 168019,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "longboard-surfboard-P5KT8D"
+        },
+        {
+            "filename": "surfing-flyer-competition-UTKBHQ-1.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/bsurf\/wp-content\/uploads\/sites\/43\/2022\/12\/surfing-flyer-competition-UTKBHQ-1-800x622.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 220786,
+            "dimensions": [
+                900,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PWB58YE"
+        },
+        {
+            "filename": "Icon-6.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/bsurf\/wp-content\/uploads\/sites\/43\/2022\/12\/Icon-6.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/lessons.json",
+                    "name": "Lessons"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                }
+            ],
+            "filesize": 9619,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "surfing-icons-CTCWSEC"
+        },
+        {
+            "filename": "Icon-7.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/bsurf\/wp-content\/uploads\/sites\/43\/2022\/12\/Icon-7.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/lessons.json",
+                    "name": "Lessons"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                }
+            ],
+            "filesize": 12792,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "surfing-icons-CTCWSEC"
+        },
+        {
+            "filename": "Icon-8.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/bsurf\/wp-content\/uploads\/sites\/43\/2022\/12\/Icon-8.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/lessons.json",
+                    "name": "Lessons"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                }
+            ],
+            "filesize": 7547,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "surfing-icons-CTCWSEC"
+        },
+        {
+            "filename": "watersport-summer-activities-and-recreation-concep-Q6WLPJ6-1.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/bsurf\/wp-content\/uploads\/sites\/43\/2022\/12\/watersport-summer-activities-and-recreation-concep-Q6WLPJ6-1-800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/instructor.json",
+                    "name": "Instructor"
+                }
+            ],
+            "filesize": 206262,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-Q6WLPJ6"
+        },
+        {
+            "filename": "Bbgbg.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/bsurf\/wp-content\/uploads\/sites\/43\/2022\/12\/Bbgbg-800x450.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/instructor.json",
+                    "name": "Instructor"
+                },
+                {
+                    "source": "templates\/registration.json",
+                    "name": "Registration"
+                }
+            ],
+            "filesize": 322629,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "longboard-surfboard-P5KT8D"
+        },
+        {
+            "filename": "surfer-on-blue-ocean-wave-PWB58YE.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/bsurf\/wp-content\/uploads\/sites\/43\/2022\/12\/surfer-on-blue-ocean-wave-PWB58YE-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/instructor.json",
+                    "name": "Instructor"
+                },
+                {
+                    "source": "templates\/registration.json",
+                    "name": "Registration"
+                }
+            ],
+            "filesize": 232310,
+            "dimensions": [
+                900,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PWB58YE"
+        },
+        {
+            "filename": "Png-8.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/bsurf\/wp-content\/uploads\/sites\/43\/2022\/12\/Png-8.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/instructor.json",
+                    "name": "Instructor"
+                },
+                {
+                    "source": "templates\/registration.json",
+                    "name": "Registration"
+                }
+            ],
+            "filesize": 37614,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "summer-logo-templates-R3FK2W9"
+        },
+        {
+            "filename": "beautiful-surfer-woman-surfing-during-summer-vacat-2G4YNRK.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/bsurf\/wp-content\/uploads\/sites\/43\/2022\/12\/beautiful-surfer-woman-surfing-during-summer-vacat-2G4YNRK-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/instructor.json",
+                    "name": "Instructor"
+                },
+                {
+                    "source": "templates\/registration.json",
+                    "name": "Registration"
+                }
+            ],
+            "filesize": 121131,
+            "dimensions": [
+                900,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-2G4YNRK"
+        },
+        {
+            "filename": "Png-10-1.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/bsurf\/wp-content\/uploads\/sites\/43\/2022\/12\/Png-10-1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/instructor.json",
+                    "name": "Instructor"
+                },
+                {
+                    "source": "templates\/registration.json",
+                    "name": "Registration"
+                }
+            ],
+            "filesize": 41352,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "summer-logo-templates-R3FK2W9"
+        },
+        {
+            "filename": "female-surfer-on-a-blue-wave-PJV6P9B.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/bsurf\/wp-content\/uploads\/sites\/43\/2022\/12\/female-surfer-on-a-blue-wave-PJV6P9B-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/instructor.json",
+                    "name": "Instructor"
+                },
+                {
+                    "source": "templates\/registration.json",
+                    "name": "Registration"
+                }
+            ],
+            "filesize": 232952,
+            "dimensions": [
+                900,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PJV6P9B"
+        },
+        {
+            "filename": "Png-9-1.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/bsurf\/wp-content\/uploads\/sites\/43\/2022\/12\/Png-9-1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/instructor.json",
+                    "name": "Instructor"
+                },
+                {
+                    "source": "templates\/registration.json",
+                    "name": "Registration"
+                }
+            ],
+            "filesize": 32483,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "summer-logo-templates-R3FK2W9"
+        },
+        {
+            "filename": "woman-kayaking-in-the-small-lagoon-in-el-nido-phil-MWZJQFW-2.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/bsurf\/wp-content\/uploads\/sites\/43\/2022\/12\/woman-kayaking-in-the-small-lagoon-in-el-nido-phil-MWZJQFW-2-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/lessons.json",
+                    "name": "Lessons"
+                },
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                }
+            ],
+            "filesize": 240962,
+            "dimensions": [
+                900,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-MWZJQFW"
+        },
+        {
+            "filename": "happy-couple-walking-together-on-beach-with-surfin-SUWC9HH.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/bsurf\/wp-content\/uploads\/sites\/43\/2022\/12\/happy-couple-walking-together-on-beach-with-surfin-SUWC9HH-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/lessons.json",
+                    "name": "Lessons"
+                },
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 211792,
+            "dimensions": [
+                900,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-SUWC9HH"
+        },
+        {
+            "filename": "handsome-sporty-man-surfing-on-sunny-day-HNYR5QX.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/bsurf\/wp-content\/uploads\/sites\/43\/2022\/12\/handsome-sporty-man-surfing-on-sunny-day-HNYR5QX-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/lessons.json",
+                    "name": "Lessons"
+                },
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/bsurf-header.json",
+                    "name": "Bsurf - Header"
+                }
+            ],
+            "filesize": 218373,
+            "dimensions": [
+                900,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-HNYR5QX"
+        },
+        {
+            "filename": "active-women-with-surf-board-enjoy-watersport-at-v-HG56E4G-1.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/bsurf\/wp-content\/uploads\/sites\/43\/2022\/12\/active-women-with-surf-board-enjoy-watersport-at-v-HG56E4G-1-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/lessons.json",
+                    "name": "Lessons"
+                },
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                }
+            ],
+            "filesize": 175103,
+            "dimensions": [
+                900,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-HG56E4G"
+        },
+        {
+            "filename": "woman-sitting-on-sup-board-and-enjoying-peace-and-1-1.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/bsurf\/wp-content\/uploads\/sites\/43\/2022\/12\/woman-sitting-on-sup-board-and-enjoying-peace-and-1-1-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/lessons.json",
+                    "name": "Lessons"
+                },
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                }
+            ],
+            "filesize": 162300,
+            "dimensions": [
+                900,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-QNHMLCD"
+        },
+        {
+            "filename": "professional-surfer-in-wet-t-shirt-riding-waves-on-S3DK3X9.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/bsurf\/wp-content\/uploads\/sites\/43\/2023\/01\/professional-surfer-in-wet-t-shirt-riding-waves-on-S3DK3X9-800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/lessons.json",
+                    "name": "Lessons"
+                },
+                {
+                    "source": "templates\/lesson-detail.json",
+                    "name": "Lesson Detail"
+                },
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                },
+                {
+                    "source": "templates\/event-detail.json",
+                    "name": "Event Detail"
+                },
+                {
+                    "source": "templates\/instructor.json",
+                    "name": "Instructor"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                },
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                }
+            ],
+            "filesize": 119632,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-S3DK3X9"
+        },
+        {
+            "filename": "surf-sand-and-sea-with-a-man-on-the-beach-for-surf-M2GB8KB.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/bsurf\/wp-content\/uploads\/sites\/43\/2022\/12\/surf-sand-and-sea-with-a-man-on-the-beach-for-surf-M2GB8KB.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/instructor.json",
+                    "name": "Instructor"
+                }
+            ],
+            "filesize": 120176,
+            "dimensions": [
+                700,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-M2GB8KB"
+        },
+        {
+            "filename": "back-view-of-young-pretty-woman-with-slender-body-J27KAXL.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/bsurf\/wp-content\/uploads\/sites\/43\/2022\/12\/back-view-of-young-pretty-woman-with-slender-body-J27KAXL.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/instructor.json",
+                    "name": "Instructor"
+                }
+            ],
+            "filesize": 163623,
+            "dimensions": [
+                700,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-J27KAXL"
+        },
+        {
+            "filename": "Lesson-1-1.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/bsurf\/wp-content\/uploads\/sites\/43\/2023\/01\/Lesson-1-1-800x667.jpg",
+            "templates": [
+                {
+                    "source": "templates\/lessons.json",
+                    "name": "Lessons"
+                }
+            ],
+            "filesize": 181137,
+            "dimensions": [
+                900,
+                750
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-2K5MWRU"
+        },
+        {
+            "filename": "Lesson-2-1.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/bsurf\/wp-content\/uploads\/sites\/43\/2023\/01\/Lesson-2-1-800x667.jpg",
+            "templates": [
+                {
+                    "source": "templates\/lessons.json",
+                    "name": "Lessons"
+                }
+            ],
+            "filesize": 144087,
+            "dimensions": [
+                900,
+                750
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-QNHMLCD"
+        },
+        {
+            "filename": "Lesson-3-1.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/bsurf\/wp-content\/uploads\/sites\/43\/2023\/01\/Lesson-3-1-800x667.jpg",
+            "templates": [
+                {
+                    "source": "templates\/lessons.json",
+                    "name": "Lessons"
+                }
+            ],
+            "filesize": 236974,
+            "dimensions": [
+                900,
+                750
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-4YY5Z42"
+        },
+        {
+            "filename": "Lesson-4-1.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/bsurf\/wp-content\/uploads\/sites\/43\/2023\/01\/Lesson-4-1-800x667.jpg",
+            "templates": [
+                {
+                    "source": "templates\/lessons.json",
+                    "name": "Lessons"
+                }
+            ],
+            "filesize": 152842,
+            "dimensions": [
+                900,
+                750
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/water-sport-parasailing-C78HWC9"
+        },
+        {
+            "filename": "TTD.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/bsurf\/wp-content\/uploads\/sites\/43\/2023\/01\/TTD.png",
+            "templates": [
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                }
+            ],
+            "filesize": 7254,
+            "dimensions": [
+                300,
+                145
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "1-1.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/bsurf\/wp-content\/uploads\/sites\/43\/2023\/01\/1-1.png",
+            "templates": [
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                }
+            ],
+            "filesize": 231710,
+            "dimensions": [
+                385,
+                495
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-Q6WLPJ6"
+        },
+        {
+            "filename": "brunette-surfer-woman-in-bikini-holding-a-surfboar-P4X6WP9.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/bsurf\/wp-content\/uploads\/sites\/43\/2022\/12\/brunette-surfer-woman-in-bikini-holding-a-surfboar-P4X6WP9.jpg",
+            "templates": [
+                {
+                    "source": "templates\/instructor.json",
+                    "name": "Instructor"
+                }
+            ],
+            "filesize": 200971,
+            "dimensions": [
+                700,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P4X6WP9"
+        },
+        {
+            "filename": "handsome-young-guy-carrying-surfboard-with-copy-sp-4626B7Y.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/bsurf\/wp-content\/uploads\/sites\/43\/2022\/12\/handsome-young-guy-carrying-surfboard-with-copy-sp-4626B7Y.jpg",
+            "templates": [
+                {
+                    "source": "templates\/instructor.json",
+                    "name": "Instructor"
+                }
+            ],
+            "filesize": 223046,
+            "dimensions": [
+                700,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-4626B7Y"
+        },
+        {
+            "filename": "you-up-for-a-surf-T5BLZUK-1.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/bsurf\/wp-content\/uploads\/sites\/43\/2022\/12\/you-up-for-a-surf-T5BLZUK-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/instructor.json",
+                    "name": "Instructor"
+                }
+            ],
+            "filesize": 127967,
+            "dimensions": [
+                700,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-T5BLZUK"
+        },
+        {
+            "filename": "male-surfer-holding-surf-board-at-the-beach-at-sun-QKSA66U.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/bsurf\/wp-content\/uploads\/sites\/43\/2022\/12\/male-surfer-holding-surf-board-at-the-beach-at-sun-QKSA66U.jpg",
+            "templates": [
+                {
+                    "source": "templates\/instructor.json",
+                    "name": "Instructor"
+                }
+            ],
+            "filesize": 129964,
+            "dimensions": [
+                700,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-QKSA66U"
+        },
+        {
+            "filename": "mid-adult-man-surfing-rolling-wave-leucadia-califo-2K5MWRU.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/bsurf\/wp-content\/uploads\/sites\/43\/2022\/12\/mid-adult-man-surfing-rolling-wave-leucadia-califo-2K5MWRU-800x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/registration.json",
+                    "name": "Registration"
+                }
+            ],
+            "filesize": 351270,
+            "dimensions": [
+                1920,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-2K5MWRU"
+        },
+        {
+            "filename": "woman-kayaking-in-the-small-lagoon-in-el-nido-phil-MWZJQFW-1.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/bsurf\/wp-content\/uploads\/sites\/43\/2022\/12\/woman-kayaking-in-the-small-lagoon-in-el-nido-phil-MWZJQFW-1-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 419620,
+            "dimensions": [
+                900,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-MWZJQFW"
+        },
+        {
+            "filename": "active-women-with-surf-board-enjoy-watersport-at-v-HG56E4G.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/bsurf\/wp-content\/uploads\/sites\/43\/2022\/12\/active-women-with-surf-board-enjoy-watersport-at-v-HG56E4G-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 303522,
+            "dimensions": [
+                900,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-HG56E4G"
+        },
+        {
+            "filename": "woman-sitting-on-sup-board-and-enjoying-peace-and-.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/bsurf\/wp-content\/uploads\/sites\/43\/2022\/12\/woman-sitting-on-sup-board-and-enjoying-peace-and--800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 286689,
+            "dimensions": [
+                900,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-QNHMLCD"
+        },
+        {
+            "filename": "Logo-1.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/bsurf\/wp-content\/uploads\/sites\/43\/2023\/01\/Logo-1.png",
+            "templates": [
+                {
+                    "source": "templates\/bsurf-header.json",
+                    "name": "Bsurf - Header"
+                },
+                {
+                    "source": "templates\/bsurf-footer.json",
+                    "name": "Bsurf - Footer"
+                }
+            ],
+            "filesize": 7778,
+            "dimensions": [
+                300,
+                185
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Footer-BG.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/bsurf\/wp-content\/uploads\/sites\/43\/2023\/01\/Footer-BG-800x375.jpg",
+            "templates": [
+                {
+                    "source": "templates\/bsurf-footer.json",
+                    "name": "Bsurf - Footer"
+                }
+            ],
+            "filesize": 242411,
+            "dimensions": [
+                1920,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-S3DK3X9"
+        },
+        {
+            "filename": "surfing-KPNJSDX.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/bsurf\/wp-content\/uploads\/sites\/43\/2023\/01\/surfing-KPNJSDX.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact-form-metform.json",
+                    "name": "Contact Form Metform"
+                },
+                {
+                    "source": "templates\/register-form-metform.json",
+                    "name": "Register Form Metform"
+                }
+            ],
+            "filesize": 201339,
+            "dimensions": [
+                700,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-KPNJSDX"
+        }
+    ]
+}

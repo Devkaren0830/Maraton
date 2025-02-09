@@ -1,0 +1,570 @@
+{
+    "version": "0.4",
+    "title": "Single Blog",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "1c90bdef",
+            "settings": {
+                "layout": "full_width",
+                "gap": "no",
+                "height": "min-height",
+                "custom_height": {
+                    "unit": "vh",
+                    "size": 50,
+                    "sizes": []
+                },
+                "custom_height_tablet": {
+                    "unit": "vw",
+                    "size": "",
+                    "sizes": []
+                },
+                "custom_height_mobile": {
+                    "unit": "vw",
+                    "size": "",
+                    "sizes": []
+                },
+                "column_position": "stretch",
+                "content_position": "middle",
+                "structure": "20",
+                "background_background": "classic",
+                "background_image": {
+                    "url": "http:\/\/kfkit.rometheme.pro\/bsurf\/wp-content\/uploads\/sites\/43\/2023\/01\/professional-surfer-in-wet-t-shirt-riding-waves-on-S3DK3X9.jpg",
+                    "id": 2675,
+                    "alt": "",
+                    "source": "library"
+                },
+                "background_position": "center center",
+                "background_size": "cover",
+                "padding": {
+                    "unit": "em",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                },
+                "padding_tablet": {
+                    "unit": "em",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                },
+                "reverse_order_mobile": "reverse-mobile",
+                "_title": "Heading Page Section"
+            },
+            "elements": [
+                {
+                    "id": "3d3e6dec",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 46,
+                        "padding": {
+                            "unit": "em",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "3",
+                            "left": "16.5",
+                            "isLinked": false
+                        },
+                        "padding_tablet": {
+                            "unit": "em",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "2",
+                            "left": "1",
+                            "isLinked": false
+                        },
+                        "padding_mobile": {
+                            "unit": "em",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": false
+                        },
+                        "content_position": "bottom"
+                    },
+                    "elements": [
+                        {
+                            "id": "380b431",
+                            "settings": {
+                                "editor": "<p>Home \/ <a href=\"#\">Single Blog<\/a><\/p>",
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=14b315f",
+                                    "text_color": "globals\/colors?id=secondary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "7defe21d",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 54,
+                        "background_background": "classic",
+                        "padding": {
+                            "unit": "em",
+                            "top": "4",
+                            "right": "17",
+                            "bottom": "1",
+                            "left": "4",
+                            "isLinked": false
+                        },
+                        "padding_tablet": {
+                            "unit": "em",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "3",
+                            "isLinked": false
+                        },
+                        "padding_mobile": {
+                            "unit": "em",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        },
+                        "__globals__": {
+                            "background_color": "globals\/colors?id=4310afa"
+                        },
+                        "content_position_mobile": "bottom"
+                    },
+                    "elements": [
+                        {
+                            "id": "75f077bc",
+                            "settings": {
+                                "title": "Surfing & the Myth of the Bikini Body."
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "34fab5dd",
+            "settings": {
+                "padding": {
+                    "unit": "em",
+                    "top": "6",
+                    "right": "1",
+                    "bottom": "6",
+                    "left": "1",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "em",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                },
+                "_title": "Single Blog Section"
+            },
+            "elements": [
+                {
+                    "id": "5a21375b",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "padding": {
+                            "unit": "em",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        },
+                        "padding_tablet": {
+                            "unit": "em",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "padding_mobile": {
+                            "unit": "em",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "56527479",
+                            "settings": {
+                                "image": {
+                                    "url": "http:\/\/kfkit.rometheme.pro\/bsurf\/wp-content\/uploads\/sites\/43\/2022\/12\/happy-beach-vacation-snorkeling-girl-having-fun-do-2HGSYB1-1.jpg",
+                                    "id": 2639,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "image_size": "custom",
+                                "image_custom_dimension": {
+                                    "width": "1920",
+                                    "height": "800"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "4de5851f",
+                            "settings": {
+                                "view": "inline",
+                                "icon_list": [
+                                    {
+                                        "text": "Admin",
+                                        "selected_icon": {
+                                            "value": "far fa-user-circle",
+                                            "library": "fa-regular"
+                                        },
+                                        "_id": "77bea58"
+                                    },
+                                    {
+                                        "text": "17 January, 2023",
+                                        "selected_icon": {
+                                            "value": "far fa-calendar-alt",
+                                            "library": "fa-regular"
+                                        },
+                                        "_id": "1912ad5"
+                                    },
+                                    {
+                                        "text": "Surfing",
+                                        "selected_icon": {
+                                            "value": "far fa-folder-open",
+                                            "library": "fa-regular"
+                                        },
+                                        "_id": "6b41c20"
+                                    }
+                                ],
+                                "space_between": {
+                                    "unit": "px",
+                                    "size": 50,
+                                    "sizes": []
+                                },
+                                "icon_size": {
+                                    "unit": "px",
+                                    "size": 20,
+                                    "sizes": []
+                                },
+                                "text_indent": {
+                                    "unit": "px",
+                                    "size": 5,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "icon_color": "globals\/colors?id=e7f879b",
+                                    "text_color": "globals\/colors?id=text",
+                                    "icon_typography_typography": "globals\/typography?id=4b7939a"
+                                },
+                                "space_between_mobile": {
+                                    "unit": "px",
+                                    "size": 27,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon-list",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "41007f3f",
+                            "settings": {
+                                "structure": "20"
+                            },
+                            "elements": [
+                                {
+                                    "id": "2dab896f",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": 70,
+                                        "padding": {
+                                            "unit": "em",
+                                            "top": "0",
+                                            "right": "3",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "padding_tablet": {
+                                            "unit": "em",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "3",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "padding_mobile": {
+                                            "unit": "em",
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": "",
+                                            "isLinked": true
+                                        },
+                                        "_inline_size_tablet": 100
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "40a4d665",
+                                            "settings": {
+                                                "editor": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec velit lectus. Proin et lacus ut diam eleifend euismod in sit amet sem. Sed dapibus aliquet risus ac laoreet. Nulla id enim quis mi fringilla iaculis. Nullam tristique quis turpis vitae lacinia. Curabitur vulputate rhoncus est vitae ultrices. Sed auctor ante ac mauris tristique congue. Pellentesque convallis, erat quis dapibus rhoncus, dolor ipsum fermentum diam, a maximus diam dolor eu nisl. Aenean suscipit leo nec orci lobortis commodo. Morbi nulla justo, malesuada vel ante et, dapibus malesuada tellus.<\/p><p>Integer non eros eget dui ultrices faucibus. Donec vehicula felis elit. Nam elementum nec sem vel suscipit. Sed auctor eu sapien feugiat dictum. Nunc at dui tellus. Vestibulum ornare, tortor in imperdiet finibus, metus urna lobortis erat, sed condimentum nisl nisi et dui. Sed ac egestas tortor, non consequat libero. Vivamus eget mi nulla. Ut ornare sapien eget nibh pulvinar, quis posuere erat venenatis. Cras ut dui tempus, ornare lorem nec, suscipit tellus. Aenean sed ligula id enim posuere cursus non ut quam.<\/p><p>Fusce mauris orci, molestie eu erat ac, ornare suscipit purus. In ac felis sem. Nunc laoreet suscipit purus ac pharetra. Maecenas sed auctor sapien. Phasellus nisl eros, iaculis sed libero sit amet, dignissim accumsan felis. Donec mollis nibh sem, et pretium neque vulputate eu. Phasellus lobortis orci vitae enim tempor, et auctor nunc molestie. Phasellus vitae cursus ante. Curabitur fermentum ex ac lectus blandit, ut cursus nunc malesuada. Morbi sed ullamcorper neque, quis scelerisque ipsum. Praesent est odio, congue nec est eget, vulputate hendrerit dolor. Maecenas quis dui id risus tincidunt ultrices. Suspendisse nec lacus nec libero vehicula faucibus ut at risus. Proin lacinia enim quam, eget maximus leo fermentum id.<\/p>"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "420d2306",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": 30,
+                                        "background_background": "classic",
+                                        "background_image": {
+                                            "url": "http:\/\/kfkit.rometheme.pro\/bsurf\/wp-content\/uploads\/sites\/43\/2022\/12\/pretty-young-blonde-woman-in-swimsuit-looks-into-d-MM3EXNS-1.jpg",
+                                            "id": 2647,
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "background_position": "center center",
+                                        "background_size": "cover",
+                                        "background_overlay_background": "classic",
+                                        "background_overlay_opacity": {
+                                            "unit": "px",
+                                            "size": 0.6,
+                                            "sizes": []
+                                        },
+                                        "padding": {
+                                            "unit": "em",
+                                            "top": "9",
+                                            "right": "2",
+                                            "bottom": "2",
+                                            "left": "2",
+                                            "isLinked": false
+                                        },
+                                        "padding_tablet": {
+                                            "unit": "em",
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": "",
+                                            "isLinked": true
+                                        },
+                                        "padding_mobile": {
+                                            "unit": "em",
+                                            "top": "5",
+                                            "right": "1",
+                                            "bottom": "1",
+                                            "left": "1",
+                                            "isLinked": false
+                                        },
+                                        "__globals__": {
+                                            "background_color": "",
+                                            "background_overlay_color": "globals\/colors?id=e7f879b"
+                                        },
+                                        "background_position_tablet": "top center",
+                                        "_inline_size_tablet": 100
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "5541f4d9",
+                                            "settings": {
+                                                "selected_icon": {
+                                                    "value": "icon icon-user1",
+                                                    "library": "ekiticons"
+                                                },
+                                                "size": {
+                                                    "unit": "px",
+                                                    "size": 75,
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "primary_color": "globals\/colors?id=secondary"
+                                                },
+                                                "size_mobile": {
+                                                    "unit": "px",
+                                                    "size": 60,
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "icon",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "62e0fd6c",
+                                            "settings": {
+                                                "title": "We Create Careers for the Instructors.",
+                                                "header_size": "h4",
+                                                "align": "center",
+                                                "__globals__": {
+                                                    "title_color": "globals\/colors?id=secondary"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "220f2a95",
+                                            "settings": {
+                                                "text": "JOIN US NOW",
+                                                "align": "center",
+                                                "selected_icon": {
+                                                    "value": "icon icon-arrow-right",
+                                                    "library": "ekiticons"
+                                                },
+                                                "icon_align": "right",
+                                                "icon_indent": {
+                                                    "unit": "px",
+                                                    "size": 10,
+                                                    "sizes": []
+                                                },
+                                                "typography_font_family": "Josefin Sans",
+                                                "typography_font_size": {
+                                                    "unit": "rem",
+                                                    "size": 1,
+                                                    "sizes": []
+                                                },
+                                                "typography_font_size_tablet": {
+                                                    "unit": "rem",
+                                                    "size": "",
+                                                    "sizes": []
+                                                },
+                                                "typography_font_size_mobile": {
+                                                    "unit": "rem",
+                                                    "size": "",
+                                                    "sizes": []
+                                                },
+                                                "typography_font_weight": "600",
+                                                "typography_line_height": {
+                                                    "unit": "em",
+                                                    "size": 1.3,
+                                                    "sizes": []
+                                                },
+                                                "typography_letter_spacing": {
+                                                    "unit": "em",
+                                                    "size": 0.2,
+                                                    "sizes": []
+                                                },
+                                                "typography_letter_spacing_tablet": {
+                                                    "unit": "em",
+                                                    "size": "",
+                                                    "sizes": []
+                                                },
+                                                "typography_letter_spacing_mobile": {
+                                                    "unit": "em",
+                                                    "size": "",
+                                                    "sizes": []
+                                                },
+                                                "border_radius": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "text_padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "__globals__": {
+                                                    "button_text_color": "",
+                                                    "hover_color": "globals\/colors?id=d26f039",
+                                                    "background_color": "globals\/colors?id=c01ff5f"
+                                                },
+                                                "background_color": "#02010100",
+                                                "border_border": "solid",
+                                                "border_width": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": true
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "button",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

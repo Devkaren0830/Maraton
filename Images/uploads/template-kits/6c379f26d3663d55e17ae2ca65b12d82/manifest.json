@@ -1,0 +1,823 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Creatv \u2013 Creative Design Agency Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/creatv\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/creatv\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Project",
+            "screenshot": "screenshots\/project.jpg",
+            "source": "templates\/project.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/creatv\/template-kit\/project\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/creatv\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/creatv\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/creatv\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/creatv\/template-kit\/single-post\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "MetForm Contact",
+            "screenshot": "screenshots\/metform-contact.jpg",
+            "source": "templates\/metform-contact.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/creatv\/template-kit\/metform-contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/creatv\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/creatv\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/creatv\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404 Page",
+            "screenshot": "screenshots\/404-page.jpg",
+            "source": "templates\/404-page.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/creatv\/template-kit\/404-page\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.16.4",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Jeg Elementor Kit",
+            "version": "2.6.2",
+            "file": "jeg-elementor-kit\/jeg-elementor-kit.php",
+            "author": "Jegtheme"
+        },
+        {
+            "name": "MetForm",
+            "version": "3.2.3",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        }
+    ],
+    "images": [
+        {
+            "filename": "blur-gradient-abstract-colorful-pastel-background-e1698314063211.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/creatv\/wp-content\/uploads\/sites\/419\/2023\/10\/blur-gradient-abstract-colorful-pastel-background-e1698314063211-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 261168,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/gradient-blur-abstract-phone-wallpaper-vector_18245913.htm"
+        },
+        {
+            "filename": "contemporary-abstract-papaya-seamless-pattern-modern-exotic-tropical-fruits-colored-design--e1698314020901.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/creatv\/wp-content\/uploads\/sites\/419\/2023\/10\/contemporary-abstract-papaya-seamless-pattern-modern-exotic-tropical-fruits-colored-design--e1698314020901-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 115589,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-BZJXW29"
+        },
+        {
+            "filename": "abstract-paint-texture-art-colorful-design-psychedelic-background--e1698314026988.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/creatv\/wp-content\/uploads\/sites\/419\/2023\/10\/abstract-paint-texture-art-colorful-design-psychedelic-background--e1698314026988-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 178334,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-P4BPW6F"
+        },
+        {
+            "filename": "singapore-city-landmarks-artwork-e1698314038591.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/creatv\/wp-content\/uploads\/sites\/419\/2023\/10\/singapore-city-landmarks-artwork-e1698314038591-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 143223,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-RQH6NPR"
+        },
+        {
+            "filename": "young-hispanic-man-close-to-a-neon-light-with-blue-and-red-lights-e1698314047406.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/creatv\/wp-content\/uploads\/sites\/419\/2023\/10\/young-hispanic-man-close-to-a-neon-light-with-blue-and-red-lights-e1698314047406-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 197788,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PEECPLM"
+        },
+        {
+            "filename": "confident-look-studio-shot-indoors-with-neon-light-portrait-of-beautiful-young-girl-e1674113746744.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/creatv\/wp-content\/uploads\/sites\/419\/2023\/10\/confident-look-studio-shot-indoors-with-neon-light-portrait-of-beautiful-young-girl-e1674113746744-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 214893,
+            "dimensions": [
+                1230,
+                1230
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-3746744"
+        },
+        {
+            "filename": "abstract-luxury-gradient-blue-background-smooth-dark-blue-with-black-vignette-studio-banner--e1698314089235.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/creatv\/wp-content\/uploads\/sites\/419\/2023\/10\/abstract-luxury-gradient-blue-background-smooth-dark-blue-with-black-vignette-studio-banner--e1698314089235-800x540.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 47395,
+            "dimensions": [
+                1920,
+                1295
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/templatekit.jegtheme.com\/creatv\/"
+        },
+        {
+            "filename": "the-creative-process-e1698314073924.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/creatv\/wp-content\/uploads\/sites\/419\/2023\/10\/the-creative-process-e1698314073924-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 145133,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-R68PNYU"
+        },
+        {
+            "filename": "russia-moscow-30-05-2021-logo-screenshot-of-blockchain-nft-ethereum-cryptocurrency-game-decentralan-e1698314263279.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/creatv\/wp-content\/uploads\/sites\/419\/2023\/10\/russia-moscow-30-05-2021-logo-screenshot-of-blockchain-nft-ethereum-cryptocurrency-game-decentralan-e1698314263279-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 167301,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-6G73CDG"
+        },
+        {
+            "filename": "design-be-creative-inspiration-logo-concept-e1698314273332.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/creatv\/wp-content\/uploads\/sites\/419\/2023\/10\/design-be-creative-inspiration-logo-concept-e1698314273332-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 136092,
+            "dimensions": [
+                1440,
+                961
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZYNQWH6"
+        },
+        {
+            "filename": "laptop-in-a-coworking-space-e1698314286392.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/creatv\/wp-content\/uploads\/sites\/419\/2023\/10\/laptop-in-a-coworking-space-e1698314286392-800x470.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 137924,
+            "dimensions": [
+                1440,
+                846
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-R5KARZF"
+        },
+        {
+            "filename": "industrial-female-engineer-using-on-computer-showing-cad-software-e1698314278904.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/creatv\/wp-content\/uploads\/sites\/419\/2023\/10\/industrial-female-engineer-using-on-computer-showing-cad-software-e1698314278904-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 159166,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-R655MJV"
+        },
+        {
+            "filename": "tools-and-materials-used-for-fashion-designing-e1698314293887.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/creatv\/wp-content\/uploads\/sites\/419\/2023\/10\/tools-and-materials-used-for-fashion-designing-e1698314293887-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 229575,
+            "dimensions": [
+                1440,
+                961
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-4XD3MX3"
+        },
+        {
+            "filename": "working-on-graphic-design-e1698314301526.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/creatv\/wp-content\/uploads\/sites\/419\/2023\/10\/working-on-graphic-design-e1698314301526-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 109498,
+            "dimensions": [
+                1440,
+                961
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-N5LN598"
+        },
+        {
+            "filename": "woman-9T3CER9.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/creatv\/wp-content\/uploads\/sites\/419\/2023\/10\/woman-9T3CER9-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 196198,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-9T3CER9"
+        },
+        {
+            "filename": "woman-FFR87TU.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/creatv\/wp-content\/uploads\/sites\/419\/2023\/10\/woman-FFR87TU-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 84471,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-FFR87TU"
+        },
+        {
+            "filename": "handsome-guy-in-casual-clothes-standing-with-arms-HWSQN2E.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/creatv\/wp-content\/uploads\/sites\/419\/2023\/10\/handsome-guy-in-casual-clothes-standing-with-arms-HWSQN2E-800x960.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 201136,
+            "dimensions": [
+                1000,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-HWSQN2E"
+        },
+        {
+            "filename": "beautiful-asian-female-model-standing-in-dress-cr-EDULG5G.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/creatv\/wp-content\/uploads\/sites\/419\/2023\/10\/beautiful-asian-female-model-standing-in-dress-cr-EDULG5G-800x960.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 151199,
+            "dimensions": [
+                1000,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-EDULG5G"
+        },
+        {
+            "filename": "indoor-portrait-of-positive-friendly-looking-slim-93WBC7X.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/creatv\/wp-content\/uploads\/sites\/419\/2023\/10\/indoor-portrait-of-positive-friendly-looking-slim-93WBC7X-800x960.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 182699,
+            "dimensions": [
+                1000,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-93WBC7X"
+        },
+        {
+            "filename": "ambitious-good-looking-young-tanned-female-with-bl-XHHUTLC.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/creatv\/wp-content\/uploads\/sites\/419\/2023\/10\/ambitious-good-looking-young-tanned-female-with-bl-XHHUTLC-800x960.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 146057,
+            "dimensions": [
+                1000,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-XHHUTLC"
+        },
+        {
+            "filename": "smiling-candid-girl-in-dress-cross-arms-on-chest-AKE5DGT.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/creatv\/wp-content\/uploads\/sites\/419\/2023\/10\/smiling-candid-girl-in-dress-cross-arms-on-chest-AKE5DGT-800x960.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 121606,
+            "dimensions": [
+                1000,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-AKE5DGT"
+        },
+        {
+            "filename": "happy-black-man-with-beard-wearing-beanie-and-den-KFA8HP4.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/creatv\/wp-content\/uploads\/sites\/419\/2023\/10\/happy-black-man-with-beard-wearing-beanie-and-den-KFA8HP4-800x960.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 248220,
+            "dimensions": [
+                1000,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-KFA8HP4"
+        },
+        {
+            "filename": "portrait-of-a-young-bearded-casual-man-smiling-B5WQYWZ.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/creatv\/wp-content\/uploads\/sites\/419\/2023\/10\/portrait-of-a-young-bearded-casual-man-smiling-B5WQYWZ-800x960.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 170459,
+            "dimensions": [
+                1000,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-B5WQYWZ"
+        },
+        {
+            "filename": "image-of-successful-happy-businesswoman-smiling-w-CKCVTQ9.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/creatv\/wp-content\/uploads\/sites\/419\/2023\/10\/image-of-successful-happy-businesswoman-smiling-w-CKCVTQ9-800x960.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 111826,
+            "dimensions": [
+                1000,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-CKCVTQ9"
+        },
+        {
+            "filename": "asian-man-creative-designers-present-ux-ui-to-team--e1698314547978.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/creatv\/wp-content\/uploads\/sites\/419\/2023\/10\/asian-man-creative-designers-present-ux-ui-to-team--e1698314547978-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 157129,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZXRBXBD"
+        },
+        {
+            "filename": "ux-ui-and-programming-development-technology-e1698314556648.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/creatv\/wp-content\/uploads\/sites\/419\/2023\/10\/ux-ui-and-programming-development-technology-e1698314556648-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 139805,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-7WT4XWH"
+        },
+        {
+            "filename": "creatv-logo1-RVDFZDU-e1698314511522.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/creatv\/wp-content\/uploads\/sites\/419\/2023\/10\/creatv-logo1-RVDFZDU-800x211.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 25098,
+            "dimensions": [
+                800,
+                211
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-RVDFZDU"
+        },
+        {
+            "filename": "creatv-logo2-RVDFZDU-e1698314518420.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/creatv\/wp-content\/uploads\/sites\/419\/2023\/10\/creatv-logo2-RVDFZDU-800x216.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 25938,
+            "dimensions": [
+                800,
+                216
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-RVDFZDU"
+        }
+    ]
+}

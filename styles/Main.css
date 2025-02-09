@@ -1,0 +1,235 @@
+/* Ajustar el tamaño de las imágenes en el carrusel */
+body{
+    background-color: white;
+}
+.carousel-item img {
+    max-height: 1000px; /* Altura máxima de las imágenes */
+    object-fit: cover; /* Recorta la imagen para que encaje sin deformarse */
+    width: 100%; /* Asegura que ocupe todo el ancho */
+    margin: auto; /* Centra la imagen */
+    background-size: cover; /* Ajusta la imagen para cubrir todo el contenedor */
+}
+
+/* Personalizar los controles de navegación */
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    background-color: black; /* Fondo negro para los controles */
+    border-radius: 50%; /* Controles redondos */
+    width: 50px; /* Ajusta el ancho de los controles */
+    height: 50px; /* Ajusta la altura de los controles */
+}
+
+/* Aumentar el tamaño de las flechas en los controles */
+.carousel-control-prev-icon::after,
+.carousel-control-next-icon::after {
+    content: ''; /* Oculta la flecha predeterminada */
+    border: solid white; /* Crea una flecha con bordes blancos */
+    border-width: 0 4px 4px 0; /* Ajusta el ancho de las líneas */
+    display: inline-block;
+    padding: 6px;
+    transform: rotate(135deg); /* Gira la flecha */
+}
+
+.carousel-control-next-icon::after {
+    transform: rotate(-45deg); /* Cambia la dirección de la flecha para "siguiente" */
+}
+
+
+
+/* Fondo general de la sección */
+.section-inscribete {
+    background: #f8f9fa;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilos de la tarjeta */
+.div_card_inscribete {
+    background-color: #ffffff;
+    border-radius: 8px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+}
+
+/* Efecto al pasar el mouse */
+.div_card_inscribete:hover {
+    transform: translateY(-3px);
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.15);
+}
+
+/* Título de la tarjeta */
+.card-title {
+    font-size: 20px;
+    font-weight: 600;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+/* Texto de la tarjeta */
+.card-text {
+    font-size: 14px;
+    color: #555;
+    margin-bottom: 15px;
+}
+
+/* Botón de inscripción */
+.btn-register {
+    background-color: #007bff;
+    color: white;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    transition: background-color 0.2s ease-in-out, transform 0.1s;
+}
+
+/* Efecto al pasar el mouse sobre el botón */
+.btn-register:hover {
+    background-color: #0056b3;
+    transform: scale(1.03);
+}
+
+/* Efecto al hacer clic */
+.btn-register:active {
+    transform: scale(0.97);
+}
+
+/* Sección de texto */
+.hero-section {
+    background-color: #f0f0f0;
+    color: #333;
+    padding: 40px 20px;
+    text-align: center;
+    border-radius: 8px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Título principal */
+.hero-title {
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 15px;
+    color: #333;
+}
+
+/* Párrafo */
+.hero-text {
+    font-size: 16px;
+    line-height: 1.6;
+    color: #555;
+    max-width: 700px;
+    margin: 0 auto;
+    text-align: justify;
+}
+
+/* Botón de llamada a la acción */
+.btn-cta {
+    background-color: #28a745;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: 600;
+    border-radius: 5px;
+    border: none;
+    margin-top: 20px;
+    transition: background-color 0.2s ease-in-out, transform 0.1s;
+}
+
+/* Efecto hover en el botón */
+.btn-cta:hover {
+    background-color: #218838;
+}
+
+
+
+/* 
+
+
+*/
+/* section 6 */
+/* Estilos personalizados */
+.info-item {
+    text-align: center;
+    padding: 20px;
+    border-right: 1px solid #d1d1d1;
+}
+.info-item:last-child {
+    border-right: none;
+}
+.info-icon {
+    font-size: 50px;
+    color: #3a7745; /* Color verde */
+    margin-bottom: 10px;
+}
+.info-title {
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+.info-description {
+    font-size: 16px;
+    color: #555;
+}
+
+#section_6 img{
+    width: 100%;
+    height: 100%;
+}
+
+#section_6 .col-md-6{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+/* Section 7 */
+.custom-text {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #4a148c; /* Color púrpura */
+}
+#bton_viaje {
+    font-size: 1rem;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background: #3366cc; /* Azul */
+    color: white;
+    border: none;
+}
+#bton_viaje:hover {
+    background: #244a8d; /* Azul más oscuro */
+}
+
+/* section 8 */
+#section_8 .carousel-inner {
+    display: flex;
+    flex-direction: row;
+}
+#section_8 .carousel-item {
+    transition: transform 0.5s ease-in-out;
+    text-align: center;
+}
+#section_8 .carousel-item img {
+    width: 90%; /* Ajusta el tamaño de la imagen */
+    max-height: 250px;
+    border-radius: 10px;
+}
+
+/* Responsividad */
+
+
+@media (max-width: 576px) { /* Celulares */
+    #section_8 .carousel-item {
+        flex: 0 0 100%; /* Muestra 1 imagen */
+    }
+}
+
+/* footer */
+.footer_marathon p{
+    color: black;
+}
